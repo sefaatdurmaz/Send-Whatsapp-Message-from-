@@ -1,0 +1,11 @@
+C:\Users\sefaa\OneDrive\Masaüstü\c#_projelerim\SendWhatsAppMessage\SendWhatsAppMessage\bin\Debug\SendWhatsAppMessage.exe.config
+C:\Users\sefaa\OneDrive\Masaüstü\c#_projelerim\SendWhatsAppMessage\SendWhatsAppMessage\bin\Debug\SendWhatsAppMessage.exe
+C:\Users\sefaa\OneDrive\Masaüstü\c#_projelerim\SendWhatsAppMessage\SendWhatsAppMessage\bin\Debug\SendWhatsAppMessage.pdb
+C:\Users\sefaa\OneDrive\Masaüstü\c#_projelerim\SendWhatsAppMessage\SendWhatsAppMessage\obj\Debug\SendWhatsAppMessage.csproj.AssemblyReference.cache
+C:\Users\sefaa\OneDrive\Masaüstü\c#_projelerim\SendWhatsAppMessage\SendWhatsAppMessage\obj\Debug\SendWhatsAppMessage.csproj.SuggestedBindingRedirects.cache
+C:\Users\sefaa\OneDrive\Masaüstü\c#_projelerim\SendWhatsAppMessage\SendWhatsAppMessage\obj\Debug\SendWhatsAppMessage.Form1.resources
+C:\Users\sefaa\OneDrive\Masaüstü\c#_projelerim\SendWhatsAppMessage\SendWhatsAppMessage\obj\Debug\SendWhatsAppMessage.Properties.Resources.resources
+C:\Users\sefaa\OneDrive\Masaüstü\c#_projelerim\SendWhatsAppMessage\SendWhatsAppMessage\obj\Debug\SendWhatsAppMessage.csproj.GenerateResource.cache
+C:\Users\sefaa\OneDrive\Masaüstü\c#_projelerim\SendWhatsAppMessage\SendWhatsAppMessage\obj\Debug\SendWhatsAppMessage.csproj.CoreCompileInputs.cache
+C:\Users\sefaa\OneDrive\Masaüstü\c#_projelerim\SendWhatsAppMessage\SendWhatsAppMessage\obj\Debug\SendWhatsAppMessage.exe
+C:\Users\sefaa\OneDrive\Masaüstü\c#_projelerim\SendWhatsAppMessage\SendWhatsAppMessage\obj\Debug\SendWhatsAppMessage.pdb
